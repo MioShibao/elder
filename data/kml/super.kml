@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>super.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-2QI2Sj3stK8/VqsRjWJP5PI/AAAAAAAAAVg/6WmS2PxVDUY/s199-Ic42/sup.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-2QI2Sj3stK8/VqsRjWJP5PI/AAAAAAAAAVg/6WmS2PxVDUY/s199-Ic42/sup.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder id="results">
+		<name>スーパー</name>
+		<Placemark id="1.3.1">
+			<name>（株）三和 旭が丘店</name>
+			<address>〒191-0065 東京都日野市旭が丘６丁目７−５</address>
+			<phoneNumber>042-581-3801</phoneNumber>
+			<snippet>〒191-0065 東京都日野市旭が丘６丁目７−５</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="（株）三和 旭が丘店" src="/geo0.ggpht.com/cbk?panoid=hvrbVjBV89dwV35a8i7d3w&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=333.23569&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">（株）三和 旭が丘店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0065 東京都日野市旭が丘６丁目７−５ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-581-3801 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.heartful-sanwa.co.jp/&amp;sa=U&amp;ved=0ahUKEwigk_rQnc7KAhWEg6YKHYZzA-sQ61gIBigCMAA&amp;usg=AFQjCNG2f_d-FQ_h9-Dv6AVn5clo1NKNoQ" target="_blank"> heartful-sanwa.co.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x60191df78eb794c3:0xd2d97089733b781e&amp;q=日本, 〒191-0065 東京都日野市旭が丘６丁目７−５ （株）三和 旭が丘店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3637131,35.6606228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.4.1">
+			<name>西友・豊田店</name>
+			<address>〒191-0062 東京都日野市多摩平１丁目９−１</address>
+			<phoneNumber>042-584-2111</phoneNumber>
+			<snippet>〒191-0062 東京都日野市多摩平１丁目９−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="西友・豊田店" src="/geo3.ggpht.com/cbk?panoid=INagYEk8JYNrSuWXtYiH7Q&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=315.93808&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">西友・豊田店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平１丁目９ </div><div> 東京都日野市多摩平１丁目９−１ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-584-2111 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.seiyu.co.jp/&amp;sa=U&amp;ved=0ahUKEwjBrvrQnc7KAhXnnaYKHWmdDsEQ61gICSgEMAA&amp;usg=AFQjCNGvIYM-8hCZP-KByvzfvk1P_0-uvw" target="_blank"> seiyu.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0062%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2599%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2599%25E2%2588%2592%25EF%25BC%2591%2B%25E8%25A5%25BF%25E5%258F%258B%25E3%2583%25BB%25E8%25B1%258A%25E7%2594%25B0%25E5%25BA%2597%26ludocid%3D6916258976227041400%23lrd%3D0x6018e2137868c24b:0x5ffb7ce51c9ea078,1&amp;sa=U&amp;ved=0ahUKEwjBrvrQnc7KAhXnnaYKHWmdDsEQ6W4ICCgAMAA&amp;usg=AFQjCNHBo9zFp1LB1ouhoGqNNwxgLG3WVg" target="_blank"> <span class="review-count">4 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e2137868c24b:0x5ffb7ce51c9ea078&amp;q=日本, 〒191-0062 東京都日野市多摩平１丁目９−１ 西友・豊田店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3795472,35.6602949,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.5.1">
+			<name>スーパーアルプス高倉店</name>
+			<address>〒192-0033 東京都八王子市高倉町６６−１６</address>
+			<phoneNumber>042-646-3435</phoneNumber>
+			<snippet>〒192-0033 東京都八王子市高倉町６６−１６</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="スーパーアルプス高倉店" src="/geo2.ggpht.com/cbk?panoid=RBxU2xhGheAN9GxiSecd5A&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=154.539&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">スーパーアルプス高倉店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒192-0033 東京都八王子市高倉町６６−１６ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-646-3435 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.superalps.co.jp/pages/e_12.html&amp;sa=U&amp;ved=0ahUKEwivt_rQnc7KAhVBraYKHS36AtcQ61gICCgDMAA&amp;usg=AFQjCNEgCa2iNxqtVvn37QRh-0BRINAP4Q" target="_blank"> superalps.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592192-0033%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E5%25B8%2582%25E9%25AB%2598%25E5%2580%2589%25E7%2594%25BA%25EF%25BC%2596%25EF%25BC%2596%25E2%2588%2592%25EF%25BC%2591%25EF%25BC%2596%2B%25E3%2582%25B9%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2597%25E3%2582%25B9%25E9%25AB%2598%25E5%2580%2589%25E5%25BA%2597%26ludocid%3D11788478619500733658%23lrd%3D0x6018e207b9fa901d:0xa39916d8ada0e4da,1&amp;sa=U&amp;ved=0ahUKEwivt_rQnc7KAhVBraYKHS36AtcQ6W4IBygAMAA&amp;usg=AFQjCNGH0ZCJ1xksA9d0YBM4YU0SDyzkkg" target="_blank"> <span class="review-count">2 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e207b9fa901d:0xa39916d8ada0e4da&amp;q=日本, 〒192-0033 東京都八王子市高倉町６６−１６ スーパーアルプス高倉店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.367182,35.663858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.6.1">
+			<name>フーズマーケットさえき 多摩平の森店</name>
+			<address>〒191-0062 東京都日野市 多摩平6丁目20−1</address>
+			<phoneNumber>042-843-4051</phoneNumber>
+			<snippet>〒191-0062 東京都日野市 多摩平6丁目20−1</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="フーズマーケットさえき 多摩平の森店" src="/lh5.googleusercontent.com/-tZK53uXwiTA/VaiUr9svu6I/AAAAAAABF7I/VkinwIdRUH4/s510-k-no" width="100%"> </div> </div> <br> <div> <span class="_yNc">フーズマーケットさえき 多摩平の森店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平６丁目２０ </div><div> 多摩平6丁目20−1 </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-843-4051 </div> <div class="_i8c">21:45 まで営業</div> <div class="_DWd"> <a href="/url?q=http://www.freshsaeki.co.jp/saeki/index.html&amp;sa=U&amp;ved=0ahUKEwigwPrQnc7KAhWDMKYKHdfJAx0Q61gICSgEMAA&amp;usg=AFQjCNGqfAXdkzgn_q9wECRExXwsQQ_SoA" target="_blank"> freshsaeki.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0062%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2596%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%25EF%25BC%2590%2B%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B36%25E4%25B8%2581%25E7%259B%25AE20%25E2%2588%25921%2B%25E3%2583%2595%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%25E3%2581%2595%25E3%2581%2588%25E3%2581%258D%2B%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25E3%2581%25AE%25E6%25A3%25AE%25E5%25BA%2597%26ludocid%3D12062311218390423154%23lrd%3D0x6018e219d0a9f68f:0xa765f024ee5ed672,1&amp;sa=U&amp;ved=0ahUKEwigwPrQnc7KAhWDMKYKHdfJAx0Q6W4ICCgAMAA&amp;usg=AFQjCNEISZ_Jxw0Sd_KAotonnUc-hdEA-Q" target="_blank"> <span class="review-count">2 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e219d0a9f68f:0xa765f024ee5ed672&amp;q=〒191-0062 東京都日野市 多摩平6丁目20−1 フーズマーケットさえき 多摩平の森店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3827618,35.6682807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.7.1">
+			<name>業務スーパーリカーキング高倉店</name>
+			<address>〒192-0033 東京都八王子市高倉町５０−６</address>
+			<phoneNumber>042-644-7151</phoneNumber>
+			<snippet>〒192-0033 東京都八王子市高倉町５０−６</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="業務スーパーリカーキング高倉店" src="/geo2.ggpht.com/cbk?panoid=zl-jx4ttD9ryD9glp-qJ8A&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=334.20123&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">業務スーパーリカーキング高倉店</span>  -  <span class="_rNc">業務用スーパー</span> </div> <div class="_pNc"> <div> 〒192-0033 東京都八王子市高倉町５０−６ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-644-7151 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.jclu.co.jp/store/gl_takakura.html&amp;sa=U&amp;ved=0ahUKEwi2vIbRnc7KAhVkKKYKHV3pCTkQ61gICCgDMAA&amp;usg=AFQjCNHVFgiv65J-sT3bUzd4XYHbeLgzIw" target="_blank"> jclu.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592192-0033%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E5%25B8%2582%25E9%25AB%2598%25E5%2580%2589%25E7%2594%25BA%25EF%25BC%2595%25EF%25BC%2590%25E2%2588%2592%25EF%25BC%2596%2B%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%25B9%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25AA%25E3%2582%25AB%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E9%25AB%2598%25E5%2580%2589%25E5%25BA%2597%26ludocid%3D13721775223140122168%23lrd%3D0x6018e20631a5dab3:0xbe6d89dd4705fe38,1&amp;sa=U&amp;ved=0ahUKEwi2vIbRnc7KAhVkKKYKHV3pCTkQ6W4IBygAMAA&amp;usg=AFQjCNGCiYo4OBGQE7zl7zVno_Tg4xwqMA" target="_blank"> <span class="review-count">2 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e20631a5dab3:0xbe6d89dd4705fe38&amp;q=〒192-0033 東京都八王子市高倉町５０−６ 業務スーパーリカーキング高倉店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3682824,35.663599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.8.1">
+			<name>（株）食品の店おおた 多摩平店</name>
+			<address>〒191-0062 東京都日野市多摩平６丁目１２−１１</address>
+			<phoneNumber>042-581-5370</phoneNumber>
+			<snippet>〒191-0062 東京都日野市多摩平６丁目１２−１１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="（株）食品の店おおた 多摩平店" src="/geo2.ggpht.com/cbk?panoid=coqyE_zG-UGqMiIdFiGLuA&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=187.6214&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">（株）食品の店おおた 多摩平店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平６丁目１２−１１ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-581-5370 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://s-oota.jp/&amp;sa=U&amp;ved=0ahUKEwicuIbRnc7KAhXGLaYKHQa_DwQQ61gICCgDMAA&amp;usg=AFQjCNHyVqHh2nCzOxFx3WJzBgUj8RxKTw" target="_blank"> s-oota.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0062%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2596%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2591%25EF%25BC%2592%25E2%2588%2592%25EF%25BC%2591%25EF%25BC%2591%2B%25EF%25BC%2588%25E6%25A0%25AA%25EF%25BC%2589%25E9%25A3%259F%25E5%2593%2581%25E3%2581%25AE%25E5%25BA%2597%25E3%2581%258A%25E3%2581%258A%25E3%2581%259F%2B%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25E5%25BA%2597%26ludocid%3D7292021423562827659%23lrd%3D0x6018e2199dce0b13:0x653276d99600278b,1&amp;sa=U&amp;ved=0ahUKEwicuIbRnc7KAhXGLaYKHQa_DwQQ6W4IBygAMAA&amp;usg=AFQjCNFs6t02VrlKEktz9Eseh-NHiewbgw" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e2199dce0b13:0x653276d99600278b&amp;q=日本, 〒191-0062 東京都日野市多摩平６丁目１２−１１ （株）食品の店おおた 多摩平店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3814899,35.6704303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.9.1">
+			<name>パワーラークス日野店</name>
+			<address>〒191-0065 東京都日野市旭が丘２丁目８−１３</address>
+			<phoneNumber>042-581-9115</phoneNumber>
+			<snippet>〒191-0065 東京都日野市旭が丘２丁目８−１３</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="パワーラークス日野店" src="/geo0.ggpht.com/cbk?panoid=jCRbXa16TSqHO7t9OE9Arw&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=88.878624&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">パワーラークス日野店</span>  -  <span class="_rNc">食料品店</span> </div> <div class="_pNc"> <div> 〒191-0065 東京都日野市旭が丘２丁目８−１３ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-581-9115 </div> <div class="_i8c">21:00 まで営業</div> <div class="_DWd"> <a href="/url?q=http://www.t-powerlarks.com/&amp;sa=U&amp;ved=0ahUKEwi7jYnRnc7KAhXmKKYKHbsjCocQ61gICCgDMAA&amp;usg=AFQjCNGEYmThmAYjVCcMIC5tVNGN1KUrTA" target="_blank"> t-powerlarks.com </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0065%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E6%2597%25AD%25E3%2581%258C%25E4%25B8%2598%25EF%25BC%2592%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2598%25E2%2588%2592%25EF%25BC%2591%25EF%25BC%2593%2B%25E3%2583%2591%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25BC%25E3%2582%25AF%25E3%2582%25B9%25E6%2597%25A5%25E9%2587%258E%25E5%25BA%2597%26ludocid%3D8243554195526607217%23lrd%3D0x6018e2091ce10b1d:0x7266fcdd570b6171,1&amp;sa=U&amp;ved=0ahUKEwi7jYnRnc7KAhXmKKYKHbsjCocQ6W4IBygAMAA&amp;usg=AFQjCNHArH6Vsu48-6aoeIjDLfzh6oFhUQ" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e2091ce10b1d:0x7266fcdd570b6171&amp;q=日本, 〒191-0065 東京都日野市旭が丘２丁目８−１３ パワーラークス日野店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3685873,35.660544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.10.1">
+			<name>スーパーアルプス豊田南店</name>
+			<address>〒191-0053 東京都日野市豊田１丁目１６−１</address>
+			<phoneNumber>042-583-1522</phoneNumber>
+			<snippet>〒191-0053 東京都日野市豊田１丁目１６−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="スーパーアルプス豊田南店" src="/geo3.ggpht.com/cbk?panoid=CzLHtZyF35dogYDyCeVuBg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=307.1492&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">スーパーアルプス豊田南店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0053 東京都日野市豊田１丁目１６−１ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-583-1522 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://superalps.info/ptoyodaminami.html&amp;sa=U&amp;ved=0ahUKEwj1_4jRnc7KAhUCnqYKHZcVA5EQ61gIBigCMAA&amp;usg=AFQjCNEmuLz-yjVr9dq23SzAB_DVhQct_A" target="_blank"> superalps.info </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e24185248615:0xb79d7f0341d51d92&amp;q=日本, 〒191-0053 東京都日野市豊田１丁目１６−１ スーパーアルプス豊田南店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3876603,35.657448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.11.1">
+			<name>（株）食品の店おおた 神明店</name>
+			<address>〒191-0016 東京都日野市神明２丁目１６−７</address>
+			<phoneNumber>042-585-7721</phoneNumber>
+			<snippet>〒191-0016 東京都日野市神明２丁目１６−７</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="（株）食品の店おおた 神明店" src="/geo2.ggpht.com/cbk?panoid=oYsFoRMWGGMuB9sn1dlIcg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=279.793&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">（株）食品の店おおた 神明店</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0016 東京都日野市神明２丁目１６−７ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-585-7721 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://s-oota.jp/&amp;sa=U&amp;ved=0ahUKEwiav5HRnc7KAhXlMqYKHVZOD8MQ61gIBigCMAA&amp;usg=AFQjCNHyVqHh2nCzOxFx3WJzBgUj8RxKTw" target="_blank"> s-oota.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e23b1d7bc0ab:0x958ebf3bfb149dc9&amp;q=日本, 〒191-0016 東京都日野市神明２丁目１６−７ （株）食品の店おおた 神明店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3932018,35.6714326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.12.1">
+			<name>AEON STYLE</name>
+			<address>〒191-0062 東京都日野市多摩平２丁目４−１ イオンモール多摩平の森</address>
+			<phoneNumber>042-514-1050</phoneNumber>
+			<snippet>〒191-0062 東京都日野市多摩平２丁目４−１ イオンモール多摩平の森</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="AEON STYLE" src="https://www.google.com/earth/rpc/images/cleardot.gif" width="100%"> </div> </div> <br> <div> <span class="_yNc">AEON STYLE</span>  -  <span class="_rNc">スーパー</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平２丁目４−１ </div><div> イオンモール多摩平の森 </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-514-1050 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.aeon.jp/aeon/tamadairanomori/&amp;sa=U&amp;ved=0ahUKEwjE3ZHRnc7KAhUELaYKHZyUDeYQ61gIBygDMAA&amp;usg=AFQjCNEjlzqhV0rZmi7q5RkvvmJ2aU6iCg" target="_blank"> aeon.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.673&amp;lng=139.404&amp;fid=0x6018e2146d563203:0xa536aa84d44ed33d&amp;q=〒191-0062 東京都日野市多摩平２丁目４−１ イオンモール多摩平の森 AEON STYLE&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3809906,35.6622433,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

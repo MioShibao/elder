@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>コンビニ２.kml</name>
+	<Style id="sn_pink-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-O_fM_DrQQf0/VqsRkXgBqSI/AAAAAAAAAVs/l2pCgK8stO8/s253-Ic42/con.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_pink-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_pink-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-O_fM_DrQQf0/VqsRkXgBqSI/AAAAAAAAAVs/l2pCgK8stO8/s253-Ic42/con.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder id="results">
+		<name>コンビニ</name>
+		<open>1</open>
+		<Placemark id="1.3.1">
+			<name>セブンイレブン日野平山６丁目店</name>
+			<address>〒191-0043 東京都日野市 平山6丁目3−1</address>
+			<phoneNumber>042-591-1931</phoneNumber>
+			<snippet>〒191-0043 東京都日野市 平山6丁目3−1</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="セブンイレブン日野平山６丁目店" src="/geo3.ggpht.com/cbk?panoid=znEhzapkgDvX9K4f7TEeBA&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=170.43983&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">セブンイレブン日野平山６丁目店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0043 東京都日野市平山６丁目３ </div><div> 平山6丁目3−1 </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-591-1931 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.sej.co.jp/&amp;sa=U&amp;ved=0ahUKEwiO_cevnM7KAhWh3aYKHXwzDFEQ61gIBygDMAA&amp;usg=AFQjCNF1mPade2wBMuMqd9t7O4UCeMqiWw" target="_blank"> sej.co.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e266c5ce79dd:0x2037f432d00ef899&amp;q=日本, 〒191-0043 東京都日野市 平山6丁目3−1 セブンイレブン日野平山６丁目店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3821546,35.6463814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.4.1">
+			<name>ファミリーマート 日野北野街道店</name>
+			<address>〒191-0043 東京都日野市平山４丁目１−３３</address>
+			<phoneNumber>042-599-5130</phoneNumber>
+			<snippet>〒191-0043 東京都日野市平山４丁目１−３３</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="ファミリーマート 日野北野街道店" src="/geo0.ggpht.com/cbk?panoid=RtUXF2MyLfK3Fqw6vFkDqg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=50.443279&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">ファミリーマート 日野北野街道店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0043 東京都日野市平山４丁目１−３３ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-599-5130 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.family.co.jp/&amp;sa=U&amp;ved=0ahUKEwjhl8mvnM7KAhVlE6YKHSziDZoQ61gICCgDMAA&amp;usg=AFQjCNHZM0Z9gldRvbiBQrdrayQJm-lN-g" target="_blank"> family.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0043%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25B9%25B3%25E5%25B1%25B1%25EF%25BC%2594%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2591%25E2%2588%2592%25EF%25BC%2593%25EF%25BC%2593%2B%25E3%2583%2595%25E3%2582%25A1%25E3%2583%259F%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%2B%25E6%2597%25A5%25E9%2587%258E%25E5%258C%2597%25E9%2587%258E%25E8%25A1%2597%25E9%2581%2593%25E5%25BA%2597%26ludocid%3D15677442990736653462%23lrd%3D0x6018e25c51b221fd:0xd9917756614bbc96,1&amp;sa=U&amp;ved=0ahUKEwjhl8mvnM7KAhVlE6YKHSziDZoQ6W4IBygAMAA&amp;usg=AFQjCNECGd4IKRltlmsvuNOhbhJ29knbTA" target="_blank"> <span class="review-count">2 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e25c51b221fd:0xd9917756614bbc96&amp;q=日本, 〒191-0043 東京都日野市平山４丁目１−３３ ファミリーマート 日野北野街道店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.38863,35.650116,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.5.1">
+			<name>セブン−イレブン 豊田駅北口店</name>
+			<address>〒191-0062 東京都日野市多摩平２丁目３−１</address>
+			<phoneNumber>042-583-8845</phoneNumber>
+			<snippet>〒191-0062 東京都日野市多摩平２丁目３−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="セブン−イレブン 豊田駅北口店" src="/geo1.ggpht.com/cbk?panoid=cvQ0fCcBpcWLXyiSNTWHZg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=310.89395&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">セブン−イレブン 豊田駅北口店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平２丁目３−１ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-583-8845 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.sej.co.jp/&amp;sa=U&amp;ved=0ahUKEwjctcmvnM7KAhXi5aYKHVcRDxgQ61gICCgDMAA&amp;usg=AFQjCNF1mPade2wBMuMqd9t7O4UCeMqiWw" target="_blank"> sej.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0062%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2592%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2593%25E2%2588%2592%25EF%25BC%2591%2B%25E3%2582%25BB%25E3%2583%2596%25E3%2583%25B3%25E2%2588%2592%25E3%2582%25A4%25E3%2583%25AC%25E3%2583%2596%25E3%2583%25B3%2B%25E8%25B1%258A%25E7%2594%25B0%25E9%25A7%2585%25E5%258C%2597%25E5%258F%25A3%25E5%25BA%2597%26ludocid%3D11669414937498112049%23lrd%3D0x6018e214971aa59f:0xa1f2170ef6365031,1&amp;sa=U&amp;ved=0ahUKEwjctcmvnM7KAhXi5aYKHVcRDxgQ6W4IBygAMAA&amp;usg=AFQjCNGwBv9SdBlciFXjk7nOglY3Z4sYqA" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e214971aa59f:0xa1f2170ef6365031&amp;q=日本, 〒191-0062 東京都日野市多摩平２丁目３−１ セブン−イレブン 豊田駅北口店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3813619,35.6602274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.6.1">
+			<name>秀勇</name>
+			<address>〒191-0041 東京都日野市南平８丁目１７−１７</address>
+			<phoneNumber>042-594-3500</phoneNumber>
+			<snippet>〒191-0041 東京都日野市南平８丁目１７−１７</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="秀勇" src="/geo2.ggpht.com/cbk?panoid=QTvIpYS2hc03qpTDkfmCSQ&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=131.84576&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">秀勇</span>  -  <span class="_rNc">車体ショップ</span> </div> <div class="_pNc"> <div> 〒191-0041 東京都日野市南平８丁目１７−１７ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-594-3500 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.carcon.co.jp/all/shop-00916001/&amp;sa=U&amp;ved=0ahUKEwizusqvnM7KAhXBMqYKHTiaB18Q61gICCgDMAA&amp;usg=AFQjCNHnfNYLV8c36v7l0zgdgAourDqmDw" target="_blank"> carcon.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0041%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%258D%2597%25E5%25B9%25B3%25EF%25BC%2598%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2591%25EF%25BC%2597%25E2%2588%2592%25EF%25BC%2591%25EF%25BC%2597%2B%25E7%25A7%2580%25E5%258B%2587%26ludocid%3D560644601087486463%23lrd%3D0x6018e25ae76384c5:0x7c7cf4b550f69ff,1&amp;sa=U&amp;ved=0ahUKEwizusqvnM7KAhXBMqYKHTiaB18Q6W4IBygAMAA&amp;usg=AFQjCNGeI8I9A2yH_c6clis0ORQiuf6mbg" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e25ae76384c5:0x7c7cf4b550f69ff&amp;q=日本, 〒191-0041 東京都日野市南平８丁目１７−１７ 秀勇&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.393663,35.653781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.7.1">
+			<name>スリーエフ豊田駅前店</name>
+			<address>〒191-0062 東京都日野市 多摩平１丁目２−２ アムーザ １F</address>
+			<phoneNumber>042-585-7493</phoneNumber>
+			<snippet>〒191-0062 東京都日野市 多摩平１丁目２−２ アムーザ １F</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="スリーエフ豊田駅前店" src="/geo0.ggpht.com/cbk?panoid=4KbrD2gSkAfyG_vO9yLxHg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=357.61581&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">スリーエフ豊田駅前店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平１丁目２ </div><div> 多摩平１丁目２−２ </div><div> アムーザ １F </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-585-7493 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.three-f.co.jp/&amp;sa=U&amp;ved=0ahUKEwit_divnM7KAhUiI6YKHV2pCJwQ61gICigFMAA&amp;usg=AFQjCNGmSuuN2TCTWwGrIa3VLPhJhAM5RA" target="_blank"> three-f.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0062%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%2B%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%25E2%2588%2592%25EF%25BC%2592%2B%25E3%2582%25A2%25E3%2583%25A0%25E3%2583%25BC%25E3%2582%25B6%2B%25EF%25BC%2591F%2B%25E3%2582%25B9%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25A8%25E3%2583%2595%25E8%25B1%258A%25E7%2594%25B0%25E9%25A7%2585%25E5%2589%258D%25E5%25BA%2597%26ludocid%3D9756321081622253286%23lrd%3D0x6018e214a1ff26bf:0x87656a5520bfcee6,1&amp;sa=U&amp;ved=0ahUKEwit_divnM7KAhUiI6YKHV2pCJwQ6W4ICSgAMAA&amp;usg=AFQjCNEzbjWyW6prf7jdPqJUk0qZ4oP7GA" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e214a1ff26bf:0x87656a5520bfcee6&amp;q=日本, 〒191-0062 東京都日野市 多摩平１丁目２−２ アムーザ １F スリーエフ豊田駅前店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3809167,35.6599024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.8.1">
+			<name>サンクス日野多摩平一丁目店</name>
+			<address>〒191-0062 東京都日野市 多摩平1丁目3-15 Taniiビル 1F</address>
+			<phoneNumber>042-582-6132</phoneNumber>
+			<snippet>〒191-0062 東京都日野市 多摩平1丁目3-15 Taniiビル 1F</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="サンクス日野多摩平一丁目店" src="/geo3.ggpht.com/cbk?panoid=AVPf399w_FTrcT44TgVYug&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=231.06999&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">サンクス日野多摩平一丁目店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平１丁目３ </div><div> 多摩平1丁目3-15 </div><div> Taniiビル 1F </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-582-6132 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.circleksunkus.jp/&amp;sa=U&amp;ved=0ahUKEwjQqduvnM7KAhWiPKYKHZ4dDwEQ61gICigFMAA&amp;usg=AFQjCNHwL8KJc5gqrp_rDZ9rB8vQKNLOZg" target="_blank"> circleksunkus.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0062%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2593%2B%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B31%25E4%25B8%2581%25E7%259B%25AE3-15%2BTanii%25E3%2583%2593%25E3%2583%25AB%2B1F%2B%25E3%2582%25B5%25E3%2583%25B3%25E3%2582%25AF%25E3%2582%25B9%25E6%2597%25A5%25E9%2587%258E%25E5%25A4%259A%25E6%2591%25A9%25E5%25B9%25B3%25E4%25B8%2580%25E4%25B8%2581%25E7%259B%25AE%25E5%25BA%2597%26ludocid%3D17831371572070310126%23lrd%3D0x6018e213820d02f1:0xf775c1f85b3fe0ee,1&amp;sa=U&amp;ved=0ahUKEwjQqduvnM7KAhWiPKYKHZ4dDwEQ6W4ICSgAMAA&amp;usg=AFQjCNFQkhHuqHvs9lF3ILO2T0spytFKHQ" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e213820d02f1:0xf775c1f85b3fe0ee&amp;q=日本, 〒191-0062 東京都日野市 多摩平1丁目3-15 Taniiビル 1F サンクス日野多摩平一丁目店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.380199,35.6608847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.9.1">
+			<name>セブンイレブン日野南平２丁目店</name>
+			<address>〒191-0041 東京都日野市南平２丁目７１−１０</address>
+			<phoneNumber>042-593-0359</phoneNumber>
+			<snippet>〒191-0041 東京都日野市南平２丁目７１−１０</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="セブンイレブン日野南平２丁目店" src="/geo1.ggpht.com/cbk?panoid=sAGTx-5PKO0Wj9-LXXlOOg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=342.77994&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">セブンイレブン日野南平２丁目店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0041 東京都日野市南平２丁目７１−１０ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-593-0359 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.sej.co.jp/&amp;sa=U&amp;ved=0ahUKEwj9veavnM7KAhUmF6YKHXNdCKoQ61gIBigCMAA&amp;usg=AFQjCNF1mPade2wBMuMqd9t7O4UCeMqiWw" target="_blank"> sej.co.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e24e42405ff3:0x582ff1127c3cac51&amp;q=日本, 〒191-0041 東京都日野市南平２丁目７１−１０ セブンイレブン日野南平２丁目店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3994548,35.6587698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.10.1">
+			<name>ファミリーマート平山城址公園前店</name>
+			<address>〒191-0043 東京都日野市 平山3丁目25-9</address>
+			<phoneNumber>042-599-2815</phoneNumber>
+			<snippet>〒191-0043 東京都日野市 平山3丁目25-9</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="ファミリーマート平山城址公園前店" src="/geo0.ggpht.com/cbk?panoid=Ar7UYUAXkUifYpDAcvINBg&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=65.155228&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">ファミリーマート平山城址公園前店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0043 東京都日野市平山３丁目２５ </div><div> 平山3丁目25-9 </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-599-2815 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.family.co.jp/&amp;sa=U&amp;ved=0ahUKEwjl5uWvnM7KAhVDe6YKHW-gC0EQ61gICSgEMAA&amp;usg=AFQjCNHZM0Z9gldRvbiBQrdrayQJm-lN-g" target="_blank"> family.co.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592191-0043%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E6%2597%25A5%25E9%2587%258E%25E5%25B8%2582%25E5%25B9%25B3%25E5%25B1%25B1%25EF%25BC%2593%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%25EF%25BC%2595%2B%25E5%25B9%25B3%25E5%25B1%25B13%25E4%25B8%2581%25E7%259B%25AE25-9%2B%25E3%2583%2595%25E3%2582%25A1%25E3%2583%259F%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2583%2588%25E5%25B9%25B3%25E5%25B1%25B1%25E5%259F%258E%25E5%259D%2580%25E5%2585%25AC%25E5%259C%2592%25E5%2589%258D%25E5%25BA%2597%26ludocid%3D12793712908902248542%23lrd%3D0x6018e260b1608e93:0xb18c661b4d72b05e,1&amp;sa=U&amp;ved=0ahUKEwjl5uWvnM7KAhVDe6YKHW-gC0EQ6W4ICCgAMAA&amp;usg=AFQjCNHslbfxVhoJR__o50Ugr0RamaQeFw" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e260b1608e93:0xb18c661b4d72b05e&amp;q=日本, 〒191-0043 東京都日野市 平山3丁目25-9 ファミリーマート平山城址公園前店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3847665,35.6464307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.11.1">
+			<name>ヤマザキデイリーストアー・京王南平店</name>
+			<address>〒191-0041 東京都日野市南平７－１７－４２</address>
+			<phoneNumber>042-591-3607</phoneNumber>
+			<snippet>〒191-0041 東京都日野市南平７－１７－４２</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="ヤマザキデイリーストアー・京王南平店" src="/geo3.ggpht.com/cbk?panoid=DAQkKxvgOCS7gplfgAH53g&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=148.58205&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">ヤマザキデイリーストアー・京王南平店</span>  -  <span class="_rNc">コンビニエンスストア</span> </div> <div class="_pNc"> <div> 〒191-0041 東京都日野市南平７丁目１７ </div><div> 東京都日野市南平７－１７－４２ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-591-3607 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="#" target="_blank">  </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e244b4b1c251:0xa4b9241523d879b2&amp;q=日本, 〒191-0041 東京都日野市南平７－１７－４２ ヤマザキデイリーストアー・京王南平店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3916996,35.6541365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.12.1">
+			<name>写真屋さん４５デジタルコンビニ 日野多摩平店</name>
+			<address>〒191-0062 東京都日野市多摩平４丁目１−４</address>
+			<phoneNumber>042-582-2045</phoneNumber>
+			<snippet>〒191-0062 東京都日野市多摩平４丁目１−４</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="写真屋さん４５デジタルコンビニ 日野多摩平店" src="/geo1.ggpht.com/cbk?panoid=F67XMCWjhBg4duBZb9tWYA&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=52.303875&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">写真屋さん４５デジタルコンビニ 日野多摩平店</span>  -  <span class="_rNc">写真店</span> </div> <div class="_pNc"> <div> 〒191-0062 東京都日野市多摩平４丁目１−４ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-582-2045 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.45color.co.jp/&amp;sa=U&amp;ved=0ahUKEwjJ_-avnM7KAhWEKKYKHfuiAKUQ61gIBigCMAA&amp;usg=AFQjCNFUdMU9do1ja7VJkNMrFBQoHMp6Pw" target="_blank"> 45color.co.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#msn_pink-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6511&amp;lng=139.386&amp;fid=0x6018e21117862a43:0x502383db89ec01c4&amp;q=日本, 〒191-0062 東京都日野市多摩平４丁目１−４ 写真屋さん４５デジタルコンビニ 日野多摩平店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.379066,35.6644175,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>depart.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-jnj4t4YyPkE/VqsRkBTEccI/AAAAAAAAAVo/BcNTTwedQIM/s220-Ic42/depa.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://lh3.googleusercontent.com/-jnj4t4YyPkE/VqsRkBTEccI/AAAAAAAAAVo/BcNTTwedQIM/s220-Ic42/depa.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder id="results">
+		<name>デパート</name>
+		<Placemark id="1.3.1">
+			<name>京王八王子ショッピングセンター</name>
+			<address>〒192-0046 東京都八王子市明神町３丁目２７−１</address>
+			<phoneNumber>042-656-7111</phoneNumber>
+			<snippet>〒192-0046 東京都八王子市明神町３丁目２７−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="京王八王子ショッピングセンター" src="/geo2.ggpht.com/cbk?panoid=BlabaI-8Fq4d3MCc-oCXLQ&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=216.54659&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">京王八王子ショッピングセンター</span>  -  <span class="_rNc">デパート・百貨店</span> </div> <div class="_pNc"> <div> 〒192-0046 東京都八王子市明神町３丁目２７−１ </div> </div> <div class="_CVi"> <div> <span>京王八王子ショッピングセンターは、東京都八王子市明神町にあるショッピングセンター。1989年の京王八王子駅の地下化に伴い、同駅の上に建設され、1994年9月15日に「KEIO21」として開業、1999年3月27日に現名称に改称、リニューアルオープンした。通称「K-8 KEIHACHI」。</span> </div><div> <span></span> </div> <span class="_bUi"> <a href="/url?q=http://ja.wikipedia.org/wiki/%25E4%25BA%25AC%25E7%258E%258B%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC&amp;sa=U&amp;ved=0ahUKEwjBsfDDnc7KAhWCKaYKHRbKDMoQ4lkIDSgAMAA&amp;usg=AFQjCNGwrsEUs4wxYfGiEZbl9P-0qSSlEw" target="_blank"> ウィキペディア </a> </span> </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-656-7111 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.k-8.jp/&amp;sa=U&amp;ved=0ahUKEwjBsfDDnc7KAhWCKaYKHRbKDMoQ61gICCgDMAA&amp;usg=AFQjCNGc0akC5vn_qDxqPrfBcOeEc7bPWg" target="_blank"> k-8.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592192-0046%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E5%25B8%2582%25E6%2598%258E%25E7%25A5%259E%25E7%2594%25BA%25EF%25BC%2593%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%25EF%25BC%2597%25E2%2588%2592%25EF%25BC%2591%2B%25E4%25BA%25AC%25E7%258E%258B%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%26ludocid%3D9010878301288071348%23lrd%3D0x60191dde6541f451:0x7d0d1212c68d00b4,1&amp;sa=U&amp;ved=0ahUKEwjBsfDDnc7KAhWCKaYKHRbKDMoQ6W4IBygAMAA&amp;usg=AFQjCNF20yGASIBFk-sZQrkEKlrCy6JZug" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x60191dde6541f451:0x7d0d1212c68d00b4&amp;q=日本, 〒192-0046 東京都八王子市明神町３丁目２７−１ 京王八王子ショッピングセンター&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3430504,35.6578595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.4.1">
+			<name>宮城 子安本店</name>
+			<address>東京都八王子市子安町４丁目２６−６</address>
+			<phoneNumber>042-645-3858</phoneNumber>
+			<snippet>東京都八王子市子安町４丁目２６−６</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="宮城 子安本店" src="/geo0.ggpht.com/cbk?panoid=ORFgY8mVV4gpjDwsVa8wiA&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=184.02213&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">宮城 子安本店</span>  -  <span class="_rNc">中華麺店</span> </div> <div class="_pNc"> <div> 〒192-0904 東京都八王子市子安町４丁目２６−６ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-645-3858 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="#" target="_blank">  </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592192-0904%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E5%25B8%2582%25E5%25AD%2590%25E5%25AE%2589%25E7%2594%25BA%25EF%25BC%2594%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%25EF%25BC%2596%25E2%2588%2592%25EF%25BC%2596%2B%25E5%25AE%25AE%25E5%259F%258E%2B%25E5%25AD%2590%25E5%25AE%2589%25E6%259C%25AC%25E5%25BA%2597%26ludocid%3D4357204672470375989%23lrd%3D0x60191ddb09bcf521:0x3c77e6906c44de35,1&amp;sa=U&amp;ved=0ahUKEwi99PHDnc7KAhUFnqYKHdNjApEQ6W4IBygAMAA&amp;usg=AFQjCNHPOsuCOt02FaL2mpgV8jScy2g5XA" target="_blank"> <span class="review-count">2 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x60191ddb09bcf521:0x3c77e6906c44de35&amp;q=日本, 東京都八王子市子安町４丁目２６−６ 宮城 子安本店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3382568,35.6528833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.5.1">
+			<name>八王子東急スクエア</name>
+			<address>〒192-0083 東京都八王子市旭町９−１</address>
+			<phoneNumber>042-643-8109</phoneNumber>
+			<snippet>〒192-0083 東京都八王子市旭町９−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="八王子東急スクエア" src="/lh3.googleusercontent.com/-8Qf2dYbDduY/ViwlXq9uh8I/AAAAAAAAJzg/kq0cqYMU_ak/s544-k-no" width="100%"> </div> </div> <br> <div> <span class="_yNc">八王子東急スクエア</span>  -  <span class="_rNc">ショッピング モール</span> </div> <div class="_pNc"> <div> 〒192-0083 東京都八王子市旭町９−１ </div> </div> <div class="_CVi"> <div> <span>八王子東急スクエアは、東京都八王子市主導によって竣工された再開発ビル「八王子スクエアビル」で東急モールズデベロップメントが運営する複合商業施設である。</span> </div><div> <span></span> </div> <span class="_bUi"> <a href="/url?q=http://ja.wikipedia.org/wiki/%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E6%259D%25B1%25E6%2580%25A5%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25A8%25E3%2582%25A2&amp;sa=U&amp;ved=0ahUKEwjh7fHDnc7KAhVEraYKHQdHD8AQ4lkIHCgAMAA&amp;usg=AFQjCNFtMKRWLnpKrgXe9K6FASyJuDBnrg" target="_blank"> ウィキペディア </a> </span> </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-643-8109 </div> <div class="_i8c">23:00 まで営業</div> <div class="_DWd"> <a href="/url?q=http://www.tokyu-square.com/&amp;sa=U&amp;ved=0ahUKEwjh7fHDnc7KAhVEraYKHQdHD8AQ61gICCgDMAA&amp;usg=AFQjCNEdA-45e-t2Gj2sZYHm7HSpZKd6Cg" target="_blank"> tokyu-square.com </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592192-0083%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E5%25B8%2582%25E6%2597%25AD%25E7%2594%25BA%25EF%25BC%2599%25E2%2588%2592%25EF%25BC%2591%2B%25E5%2585%25AB%25E7%258E%258B%25E5%25AD%2590%25E6%259D%25B1%25E6%2580%25A5%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%25A8%25E3%2582%25A2%26ludocid%3D6209452741865347820%23lrd%3D0x60191dd922462531:0x562c685ea0759aec,1&amp;sa=U&amp;ved=0ahUKEwjh7fHDnc7KAhVEraYKHQdHD8AQ6W4IBygAMAA&amp;usg=AFQjCNHOKuNoT2Vl3fyegimSxN7OPaRh4w" target="_blank"> <span class="review-count">2 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x60191dd922462531:0x562c685ea0759aec&amp;q=〒192-0083 東京都八王子市旭町９−１ 八王子東急スクエア&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.3387844,35.6574022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.6.1">
+			<name>第一デパート</name>
+			<address>〒190-0012 東京都立川市曙町２丁目２−２５</address>
+			<phoneNumber>042-523-1111</phoneNumber>
+			<snippet>〒190-0012 東京都立川市曙町２丁目２−２５</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="第一デパート" src="/geo0.ggpht.com/cbk?panoid=7BofPtiT-r2KNBY4Wu5KhA&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=169.32727&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">第一デパート</span>  -  <span class="_rNc">デパート・百貨店</span> </div> <div class="_pNc"> <div> 〒190-0012 東京都立川市曙町２丁目２−２５ </div> </div> <div class="_CVi"> <div> <span>第一デパートは、東京都立川市にあった地上6階地下1階建て商業施設。JR立川駅北口より徒歩1分。第二・三水曜定休。</span> </div><div> <span></span> </div> <span class="_bUi"> <a href="/url?q=http://ja.wikipedia.org/wiki/%25E7%25AC%25AC%25E4%25B8%2580%25E3%2583%2587%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2588&amp;sa=U&amp;ved=0ahUKEwj8g_LDnc7KAhVk56YKHaukDjcQ4lkIDCgAMAA&amp;usg=AFQjCNGXj4169GeTN6RIGJinxmTETJoOEA" target="_blank"> ウィキペディア </a> </span> </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-523-1111 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="#" target="_blank">  </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592190-0012%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E7%25AB%258B%25E5%25B7%259D%25E5%25B8%2582%25E6%259B%2599%25E7%2594%25BA%25EF%25BC%2592%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2592%25E2%2588%2592%25EF%25BC%2592%25EF%25BC%2595%2B%25E7%25AC%25AC%25E4%25B8%2580%25E3%2583%2587%25E3%2583%2591%25E3%2583%25BC%25E3%2583%2588%26ludocid%3D11804602319704357281%23lrd%3D0x6018e17a0d921aed:0xa3d25f442cbaf9a1,1&amp;sa=U&amp;ved=0ahUKEwj8g_LDnc7KAhVk56YKHaukDjcQ6W4IBygAMAA&amp;usg=AFQjCNGmVendSGC3QyB6c0_mNloRZLdBbQ" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e17a0d921aed:0xa3d25f442cbaf9a1&amp;q=日本, 〒190-0012 東京都立川市曙町２丁目２−２５ 第一デパート&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.4121027,35.6984702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.7.1">
+			<name>pop life department. m&apos;s（大人のデパート エムズ）立川店</name>
+			<address>〒190-0022 東京都立川市錦町１−１−２７ 第2東信ビル 2F</address>
+			<phoneNumber>042-548-2715</phoneNumber>
+			<snippet>〒190-0022 東京都立川市錦町１−１−２７ 第2東信ビル 2F</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="pop life department. m's（大人のデパート エムズ）立川店" src="/lh3.googleusercontent.com/-fb0KtObl4zU/VNxZxfzFR9I/AAAAAAAAAAo/3R139aq8S5U/s423-k-no" width="100%"> </div> </div> <br> <div> <span class="_yNc">pop life department. m's（大人のデパート エムズ）立川店</span>  -  <span class="_rNc">アダルトショップ</span> </div> <div class="_pNc"> <div> 〒190-0022 東京都立川市錦町１丁目１−１−２７ </div><div> 第2東信ビル 2F </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-548-2715 </div> <div class="_i8c">0:00 まで営業</div> <div class="_DWd"> <a href="/url?q=http://www.ms-online.co.jp/pc/detail/special2.php%3Fsp_id%3D17&amp;sa=U&amp;ved=0ahUKEwihlv3Dnc7KAhUDJKYKHcNeDt8Q61gIBygDMAA&amp;usg=AFQjCNFiTGjetut45ob4wvaS1Rjd4_z1OQ" target="_blank"> ms-online.co.jp </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e17b32f9e17b:0x2e2a0307df0db4fe&amp;q=日本, 〒190-0022 東京都立川市錦町１−１−２７ 第2東信ビル 2F pop life department. m&apos;s（大人のデパート エムズ）立川店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.415637,35.697377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.8.1">
+			<name>第一歯科</name>
+			<address>〒190-0023 東京都立川市柴崎町２丁目１−４ 五光トミオー第2ビル 4F</address>
+			<phoneNumber>042-528-0590</phoneNumber>
+			<snippet>〒190-0023 東京都立川市柴崎町２丁目１−４ 五光トミオー第2ビル 4F</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="第一歯科" src="/lh5.googleusercontent.com/-ciDm06m0hDM/VMoSI1aeN3I/AAAAAAAAAAU/ExKKeH6WhRc/s459-k-no" width="100%"> </div> </div> <br> <div> <span class="_yNc">第一歯科</span>  -  <span class="_rNc">歯科</span> </div> <div class="_pNc"> <div> 〒190-0023 東京都立川市柴崎町２丁目１−４ </div><div> 五光トミオー第2ビル 4F </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-528-0590 </div> <div class="_i8c">14:00開店</div> <div class="_DWd"> <a href="/url?q=http://tachikawa-dc.com/&amp;sa=U&amp;ved=0ahUKEwiexP3Dnc7KAhUk4aYKHYGwA4UQ61gIBygDMAA&amp;usg=AFQjCNHd--mmF_EaMjwSwuFhZBFGS0PMWQ" target="_blank"> tachikawa-dc.com </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e17a0d8f42b7:0xce474c1c034a461e&amp;q=〒190-0023 東京都立川市柴崎町２丁目１−４ 五光トミオー第2ビル 4F 第一歯科&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.411944,35.697394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.9.1">
+			<name>グランデュオ立川</name>
+			<address>〒190-0023 東京都立川市柴崎町３−２−１</address>
+			<phoneNumber>042-540-2111</phoneNumber>
+			<snippet>〒190-0023 東京都立川市柴崎町３−２−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="グランデュオ立川" src="/lh5.googleusercontent.com/-ELUVh7mShUs/UQzFYCKOp-I/AAAAAAAA9S4/IhS3t5s__Ow/s544-k-no" width="100%"> </div> </div> <br> <div> <span class="_yNc">グランデュオ立川</span>  -  <span class="_rNc">デパート・百貨店</span> </div> <div class="_pNc"> <div> 〒190-0023 東京都立川市柴崎町３丁目３−２−１ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-540-2111 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.granduo.jp/&amp;sa=U&amp;ved=0ahUKEwiWgYDEnc7KAhXDJKYKHbu2Dv8Q61gICCgDMAA&amp;usg=AFQjCNHQ9QYp6DicUgylvtcj7yuXaN7h2Q" target="_blank"> granduo.jp </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592190-0023%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E7%25AB%258B%25E5%25B7%259D%25E5%25B8%2582%25E6%259F%25B4%25E5%25B4%258E%25E7%2594%25BA%25EF%25BC%2593%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2593%25E2%2588%2592%25EF%25BC%2592%25E2%2588%2592%25EF%25BC%2591%2B%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%25B3%25E3%2583%2587%25E3%2583%25A5%25E3%2582%25AA%25E7%25AB%258B%25E5%25B7%259D%26ludocid%3D16907142476006969194%23lrd%3D0x6018e17b1ed51adb:0xeaa23c8109504f6a,1&amp;sa=U&amp;ved=0ahUKEwiWgYDEnc7KAhXDJKYKHbu2Dv8Q6W4IBygAMAA&amp;usg=AFQjCNH5LU0dvwmMoWaAN6jmNc02ijUlDA" target="_blank"> <span class="review-count">4 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e17b1ed51adb:0xeaa23c8109504f6a&amp;q=日本, 〒190-0023 東京都立川市柴崎町３−２−１ グランデュオ立川&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.4146708,35.6974287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.10.1">
+			<name>【せいせき】京王聖蹟桜ヶ丘ショッピングセンター</name>
+			<address>〒206-0011 東京都多摩市関戸１丁目１０−１</address>
+			<phoneNumber>042-337-2000</phoneNumber>
+			<snippet>〒206-0011 東京都多摩市関戸１丁目１０−１</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="【せいせき】京王聖蹟桜ヶ丘ショッピングセンター" src="/lh5.googleusercontent.com/-8II4vikeR7c/VNo5hglhzyI/AAAAAAAAAAU/aGhoHTYbeH0/s408-k-no" width="100%"> </div> </div> <br> <div> <span class="_yNc">【せいせき】京王聖蹟桜ヶ丘ショッピングセンター</span>  -  <span class="_rNc">ショッピング モール</span> </div> <div class="_pNc"> <div> 〒206-0011 東京都多摩市関戸１丁目１０−１ </div> </div> <div class="_CVi"> <div> <span>京王聖蹟桜ヶ丘ショッピングセンター は、東京都多摩市関戸1-10-1にある京王百貨店を核とする複合商業施設。京王グループが運営している。</span> </div><div> <span></span> </div> <span class="_bUi"> <a href="/url?q=http://ja.wikipedia.org/wiki/%25E4%25BA%25AC%25E7%258E%258B%25E8%2581%2596%25E8%25B9%259F%25E6%25A1%259C%25E3%2583%25B6%25E4%25B8%2598%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC&amp;sa=U&amp;ved=0ahUKEwjHoIDEnc7KAhVkrqYKHSmhDxAQ4lkIEigAMAA&amp;usg=AFQjCNEKLvvh1l5sJROji6UP9hciLDjGdA" target="_blank"> ウィキペディア </a> </span> </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-337-2000 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="/url?q=http://www.keio-sc.jp/&amp;sa=U&amp;ved=0ahUKEwjHoIDEnc7KAhVkrqYKHSmhDxAQ61gICCgDMAA&amp;usg=AFQjCNGps1Wpsy1uoxvzAKfXgyqGh2WJGw" target="_blank"> keio-sc.jp </a> </div> <br>  <span class="_vNc">4.2</span>    <span class="_wNc"></span>    <span class="_wNc"></span>    <span class="_wNc"></span>    <span class="_wNc"></span>  <span class="_M8b"></span>     <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592206-0011%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%25A4%259A%25E6%2591%25A9%25E5%25B8%2582%25E9%2596%25A2%25E6%2588%25B8%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2591%25EF%25BC%2590%25E2%2588%2592%25EF%25BC%2591%2B%25E3%2580%2590%25E3%2581%259B%25E3%2581%2584%25E3%2581%259B%25E3%2581%258D%25E3%2580%2591%25E4%25BA%25AC%25E7%258E%258B%25E8%2581%2596%25E8%25B9%259F%25E6%25A1%259C%25E3%2583%25B6%25E4%25B8%2598%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%26ludocid%3D7705160012252702495%23lrd%3D0x6018e49e30084ef5:0x6aee3a351bdde71f,1&amp;sa=U&amp;ved=0ahUKEwjHoIDEnc7KAhVkrqYKHSmhDxAQ6W4IBygAMAA&amp;usg=AFQjCNGw1NcAIyKn7_aQwv7-eViQPHXqoQ" target="_blank"> <span class="review-count">9 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e49e30084ef5:0x6aee3a351bdde71f&amp;q=日本, 〒206-0011 東京都多摩市関戸１丁目１０−１ 【せいせき】京王聖蹟桜ヶ丘ショッピングセンター&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.4474063,35.651033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.11.1">
+			<name>第一デパート多摩屋鞄店</name>
+			<address>〒190-0012 東京都立川市曙町１丁目２４−２０</address>
+			<phoneNumber>042-522-5280</phoneNumber>
+			<snippet>〒190-0012 東京都立川市曙町１丁目２４−２０</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="第一デパート多摩屋鞄店" src="/geo1.ggpht.com/cbk?panoid=fpLTPtv1BZxRJffI5ctuvQ&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=302.75342&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">第一デパート多摩屋鞄店</span>  -  <span class="_rNc">かばん店</span> </div> <div class="_pNc"> <div> 〒190-0012 東京都立川市曙町１丁目２４−２０ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-522-5280 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="#" target="_blank">  </a> </div> <br>  <span class="reviews"> <a href="#" target="_blank"> <span class="review-count"></span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e1771c5665fd:0xbde59ce056b2574b&amp;q=日本, 〒190-0012 東京都立川市曙町１丁目２４−２０ 第一デパート多摩屋鞄店&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.4092851,35.6999852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1.12.1">
+			<name>ポポロショッピングセンター 国立館</name>
+			<address>〒186-0002 東京都国立市東１丁目１６−１７</address>
+			<phoneNumber>042-571-2577</phoneNumber>
+			<snippet>〒186-0002 東京都国立市東１丁目１６−１７</snippet>
+			<description><![CDATA[<!DOCTYPE html><html lang="ja"> <head> <style>body{font-family:Roboto,Arial,sans-serif}._qNc{background-color:#fafafa;border-radius:2px;bottom:2px;left:2px;position:absolute;right:2px;top:2px}._yNc{font-size:18px;font-weight:bold;line-height:25px;margin-bottom:5px}._pNc{font-size:14px;font-weight:300;line-height:18px;margin-bottom:5px}._vNc{font-size:16px;line-height:normal;color:#e7711b;margin-right:5px}.review-count{font-size:12px;line-height:normal}._wNc,._N8b,._M8b{display:inline-block;background-image:url('//maps.gstatic.com/tactile/omnibox/star-20130618.png');width:13px;height:13px;background-size:36px 12px}._N8b{background-position:-13px 0}._M8b{background-position:-25px 0}._rNc{font-size:12px;margin-bottom:2px}._tNc{font-size:14px;margin-bottom:2px}._CVi{font-size:14px;margin-bottom:2px;margin-top:5px}._DVi{font-size:14px;margin-bottom:2px;margin-top:5px}._xNc{font-size:14px;margin-bottom:2px;margin-top:5px}._i8c{font-size:14px;margin-bottom:2px}._mtd{font-size:14px;padding:6px 15px 2px;margin-bottom:5px}._uNc{overflow:hidden;display:inline-block;vertical-align:top;position:relative}._IGc{font-size:10px;font-style:italic}._EVi{font-weight:600}</style> <meta content="width=device-width, initial-scale=1" name="viewport"> </head> <body> <div class="_qNc"> <div class="_ltd"> <div class="_uNc"> <img alt="ポポロショッピングセンター 国立館" src="/geo2.ggpht.com/cbk?panoid=XQeLcThXXy4rc3bu_hQQ2A&amp;output=thumbnail&amp;cb_client=search.TACTILE.gps&amp;thumb=2&amp;w=408&amp;h=306&amp;yaw=91.360161&amp;pitch=0" width="100%"> </div> </div> <br> <div> <span class="_yNc">ポポロショッピングセンター 国立館</span>  -  <span class="_rNc">デパート・百貨店</span> </div> <div class="_pNc"> <div> 〒186-0002 東京都国立市東１丁目１６−１７ </div> </div> <div class="_CVi">   </div>  <div class="_xNc"></div> <br> <div class="_tNc"> 042-571-2577 </div> <div class="_i8c"></div> <div class="_DWd"> <a href="#" target="_blank">  </a> </div> <br>  <span class="reviews"> <a href="/url?q=https://www.google.com/search%3Fq%3D%25E3%2580%2592186-0002%2B%25E6%259D%25B1%25E4%25BA%25AC%25E9%2583%25BD%25E5%259B%25BD%25E7%25AB%258B%25E5%25B8%2582%25E6%259D%25B1%25EF%25BC%2591%25E4%25B8%2581%25E7%259B%25AE%25EF%25BC%2591%25EF%25BC%2596%25E2%2588%2592%25EF%25BC%2591%25EF%25BC%2597%2B%25E3%2583%259D%25E3%2583%259D%25E3%2583%25AD%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2594%25E3%2583%25B3%25E3%2582%25B0%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%2B%25E5%259B%25BD%25E7%25AB%258B%25E9%25A4%25A8%26ludocid%3D6025060051844353485%23lrd%3D0x6018e4078e52fd8b:0x539d5031ec944dcd,1&amp;sa=U&amp;ved=0ahUKEwi6wYrEnc7KAhVCF6YKHeuSDiEQ6W4IBygAMAA&amp;usg=AFQjCNFYRttEuuymgL6FqFF634HTrEbBkw" target="_blank"> <span class="review-count">1 件のクチコミ</span></a> </span> <div class="_bpd">  </div> </div> </body> </html>]]></description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<ExtendedData>
+				<Data name="placepageUri">
+					<value>https://www.google.com/earth/rpc/entity?lat=35.6475&amp;lng=139.396&amp;fid=0x6018e4078e52fd8b:0x539d5031ec944dcd&amp;q=日本, 〒186-0002 東京都国立市東１丁目１６−１７ ポポロショッピングセンター 国立館&amp;hl=ja&amp;gl=jp&amp;client=earth-client&amp;cv=7.1.5.1557&amp;useragent=GoogleEarth/7.1.5.1557(Macintosh;Mac OS X (10.10.3);ja;kml:2.2;client:Pro;type:default)</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>139.4471111,35.6964197,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
